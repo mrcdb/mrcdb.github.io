@@ -65,4 +65,4 @@ The full list of publications I authored is available on [Google Scholar](https:
 
 # Contacts
 
-Drop me an email at [marcoxdebenedictis@gmail.com](mailto:marcoxdebenedictis@gmail.com), I will reply shortly after. Thanks.
+Drop me an email at **marcoxdebenedictis <code>at</code> gmail <code>dot</code> com**, I will reply shortly after. Thanks.
