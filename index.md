@@ -13,7 +13,7 @@ My main research interests are in the field of computer and network security, wi
 
 **PhD Candidate in Computer and Control Engineering** at [Politecnico di Torino](http://www.phd-dauin.polito.it/) [nov 2016 - ongoing]
 
-Working on a research topic on "Trusted and secure networks" within the [TORSEC](http://security.polito.it) Computer and Network Security Group of Politecnico di Torino.. My main focus is on researching and prototyping architectures to enable security mechanisms on a softwarised network infrastructure, i.e. based on cloud and NFV principles. In this regard, my work focus on application of Trusted Computing mechanisms and technologies (e.g. the Trusted Platform Module) to this multi-domain environment.
+Working on a research topic on "Trusted and secure networks" within the [TORSEC](http://security.polito.it) Computer and Network Security Group of Politecnico di Torino. My main focus is on researching and prototyping architectures to enable security mechanisms on a softwarised network infrastructure, i.e. based on cloud and NFV principles. In this regard, my work focus on application of Trusted Computing mechanisms and technologies (e.g. the Trusted Platform Module) to this multi-domain environment.
 
 **M.Sc in Computer Engineering** *magna cum laude* at [Politecnico di Torino](https://didattica.polito.it/pls/portal30/sviluppo.offerta_formativa.corsi?p_sdu_cds=37:18&p_lang=EN) [oct 2013 - dec 2015]
 
@@ -43,7 +43,7 @@ Design of a novel trust architecture to enable secure key management and attesta
 
 **Laboratory Teaching Assistant** at [Politecnico di Torino](https://www.polito.it/) in several academic courses:
 
-- Programmazione di Sistema [2018 - 2019]
+- Programmazione di sistema [2018 - 2019]
 - Progettazione di servizi web e reti di calcolatori [2018 - 2019]
 - Algoritmi e Programmazione Avanzata [2017 - 2018]
 - Algorithms and Programming [2017 - 2018]
@@ -53,10 +53,10 @@ Design of a novel trust architecture to enable secure key management and attesta
 
 I have been involved in several research and innovation activities co-funded by the European Commission:
 
-- First Italian Crossboarder eIDAS Proxy (FICEP) [2016 - ongoing]
-- Securing against intruders and other threats through a NFV-enabled environment (SHIELD) [2016 - 2019]
-- Electronic Simple European Networked Services (e-SENS) [2013 - 2016]
-- Secure Identity Across Borders Linked 2.0 (STORK 2.0) [2013 - 2015]
+- First Italian Crossboarder eIDAS Proxy (**FICEP**) [2016 - ongoing]
+- Securing against intruders and other threats through a NFV-enabled environment (**SHIELD**) [2016 - 2019]
+- Electronic Simple European Networked Services (**e-SENS**) [2013 - 2016]
+- Secure Identity Across Borders Linked 2.0 (**STORK 2.0**) [2013 - 2015]
 
 # Publications
 
