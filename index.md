@@ -61,7 +61,7 @@ I have been involved in several research and innovation activities co-funded by 
 
 # Publications
 
-The full list of publications I authored is available on [Google Scholar](https://scholar.google.it/citations?user=3dBGZkkAAAAJ).
+The full list of publications I authored is available in my [Google Scholar](https://scholar.google.it/citations?user=3dBGZkkAAAAJ) profile.
 
 # Contacts
 
