@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Marco's personal page
+title: Marco De Benedictis Homepage
 email: marcoxdebenedictis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal web page of Marco De Benedictis, Security Researcher based in Italy.
@@ -26,8 +26,6 @@ github_username:  mrcdb
 markdown: kramdown
 # Disable this line when pushing to Github Pages
 # theme: plainwhite
-plugins:
-  - jekyll-feed
 remote_theme: thelehhman/plainwhite-jekyll
 
 # Exclude from processing.
