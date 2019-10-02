@@ -43,7 +43,7 @@ remote_theme: thelehhman/plainwhite-jekyll
 # plainwhite theme config
 plainwhite:
   name: Marco De Benedictis
-  tagline: Security Researcher
+  tagline: IT Security Researcher
   date_format: "%b %-d, %Y"
   social_links:
     github: mrcdb

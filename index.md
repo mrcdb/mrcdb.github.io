@@ -22,7 +22,7 @@ M.Sc Thesis on "Integration of digital signature services in the STORK 2.0 elect
 
 # Work experiences
 
-**Security Researcher** at [Politecnico di Torino](https://www.polito.it/) [feb 2016 - ongoing]
+**IT Security Researcher** at [Politecnico di Torino](https://www.polito.it/) [feb 2016 - ongoing]
 
 Working on hardware-based trust applied to highly virtualised infrastructures, such as Network Functions Virtualisation environments. Main focus on novel methodologies and architectures to secure multi-tenant, multi-domain platforms via hardware trust anchors. Minor research work on methods to enable cross-border validation of electronic identities (e-IDs) and of electronic signatures (e-Signatures).
 
@@ -44,9 +44,10 @@ Design of a novel trust architecture to enable secure key management and attesta
 
 **Laboratory Teaching Assistant** at [Politecnico di Torino](https://www.polito.it/) in several academic courses:
 
+- Information Systems Security [2019 - ongoing]
+- Algoritmi e Programmazione Avanzata [2017 - ongoing]
 - Programmazione di sistema [2018 - 2019]
 - Progettazione di servizi web e reti di calcolatori [2018 - 2019]
-- Algoritmi e Programmazione Avanzata [2017 - 2018]
 - Algorithms and Programming [2017 - 2018]
 - Computer Science [2016 - 2018]
 
