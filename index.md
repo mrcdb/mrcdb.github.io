@@ -6,7 +6,7 @@ layout: page
 title: Marco De Benedictis Homepage
 ---
 
-[CV]({{ site.url }}/assets/cv_onepage_eng.pdf)
+[CV](assets/cv_onepage_eng.pdf)
 
 # Professional interests
 
