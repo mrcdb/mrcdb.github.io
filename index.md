@@ -10,7 +10,7 @@ title: Marco De Benedictis Homepage
 
 My main interests are in the field of computer and network security, with particular attention to hardware-based trust, cloud infrastructures, network softwarisation and electronic identity. I'm particularly interested in novel forms of virtualisation, such as containers, as enabling factors for a faster and more scalable cloud environment. I am a passionate developer, and I truly enjoy learning the best approaches and latest technologies to tackle software engineering problems.
 
-# Work experiences [[cv](assets/cv_onepage_eng.pdf)]
+# Work experiences
 
 **Security Researcher** at [Polytechnic University of Turin](https://www.polito.it/), Turin IT [feb 2016 - ongoing]
 
@@ -85,4 +85,6 @@ Authored a DeviantArt channel featuring original digital paintings with 9.5K pag
 
 # Contacts
 
-Drop me an email at **marcoxdebenedictis <code>at</code> gmail <code>dot</code> com**, I will reply shortly after. Thanks.
+Interested in hiring me? Here is my [*curriculum vitae*](assets/cv_onepage_eng.pdf).
+
+You can always drop me an email at **marcoxdebenedictis <code>at</code> gmail <code>dot</code> com**, I will reply shortly after. Thanks.
