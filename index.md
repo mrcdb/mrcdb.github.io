@@ -6,6 +6,8 @@ layout: page
 title: Marco De Benedictis Homepage
 ---
 
+[CV]:{{ site.url }}/assets/cv_onepage_eng.pdf
+
 # Professional interests
 
 My main interests are in the field of computer and network security, with particular attention to hardware-based trust, cloud infrastructures, network softwarisation and electronic identity. I'm particularly interested in novel forms of virtualisation, such as containers, as enabling factors for a faster and more scalable cloud environment. I am a passionate developer, and I truly enjoy learning the best approaches and latest technologies to tackle software engineering problems.
