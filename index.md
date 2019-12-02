@@ -14,12 +14,19 @@ softwarisation and electronic identity. I'm particularly interested in novel
 forms of virtualisation, such as containers, as enabling factors for a faster
 and more scalable cloud environment. I am a passionate developer, and I truly
 enjoy learning the best approaches and latest technologies to tackle software
-engineering problems.
+engineering problems. More recently, I have started working on the aerospace
+& defence fields by focusing on avionics systems and their simulation.
 
 # Work experiences
 
+**Avionics System Engineer** at [Leonardo Aircraft Division](https://www.leonardocompany.com/en/air/aircraft?WT.ac=Aircraft), Turin IT [dec 2019 - ongoing]
+
+Working on the design, development and integration of avionic systems
+tailored for the [Ground Based Training System](https://www.leonardocompany.com/en/products/gbts) 
+products of the company.
+
 **Security Researcher** at [Polytechnic University of
-Turin](https://www.polito.it/), Turin IT [feb 2016 - ongoing]
+Turin](https://www.polito.it/), Turin IT [feb 2016 - nov 2019]
 
 Designed and developed a trust architecture tailored for a lightweight cloud
 environment and integrated in a Network Functions Virtualization platform.
@@ -30,7 +37,7 @@ volumes.. Contributed to the design and architecture of the NFV platform defined
 within the SHIELD Horizon 2020 project.
 
 **Member of FICEP Technical Staff** at [Polytechnic University of
-Turin](https://www.polito.it/), Turin IT [feb 2016 - ongoing]
+Turin](https://www.polito.it/), Turin IT [feb 2016 - nov 2019]
 
 Designed and built a container-based infrastructure to deploy the eIDAS national
 gateway for electronic identity. Developed a library to map the eIDAS
@@ -82,8 +89,8 @@ Development and rapid prototyping tools.
 **Laboratory Teaching Assistant** at [Polytechnic University of
 Turin](https://www.polito.it/) in several academic courses:
 
-- Information Systems Security [2019 - ongoing]
-- Algorithms and Programming [2017 - ongoing]
+- Information Systems Security [2019]
+- Algorithms and Programming [2017 - 2019]
 - System and Devices Programming [2018 - 2019]
 - Design of web services and computer networks [2018 - 2019]
 - Computer Science [2016 - 2018]
@@ -93,7 +100,7 @@ Turin](https://www.polito.it/) in several academic courses:
 I have been involved in several research and innovation activities co-funded by
 the European Commission:
 
-- First Italian Crossboarder eIDAS Proxy (**FICEP**) [2016 - ongoing]
+- First Italian Crossboarder eIDAS Proxy (**FICEP**) [2016 - 2019]
 - Securing against intruders and other threats through a NFV-enabled environment
   (**SHIELD**) [2016 - 2019]
 - Electronic Simple European Networked Services (**e-SENS**) [2013 - 2016]
