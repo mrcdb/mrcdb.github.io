@@ -20,7 +20,8 @@ engineering problems. I have had experiences on software engineering in heteroge
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - ongoing]
 
-Research & development of cybersecurity solutions that leverage proprietary technologies (FireEye, Palo Alto Networks) for the detection of security incidents and their remediation in heterogeneous target infrastructures, including clouds.
+Research & development of cybersecurity solutions that leverage proprietary technologies (FireEye, Palo Alto Networks, Proofpoint, Forcepoint etc.) for the detection of security incidents and their remediation in heterogeneous target infrastructures, including clouds.
+Deployment and management of Managed Detection and Response solutions in clients' ICT infrastructures.
 
 **Avionic Systems Engineer** at [Leonardo Aircraft Division](https://www.leonardocompany.com/en/air/aircraft?WT.ac=Aircraft), Turin IT [dec 2019 - jan 2020]
 
