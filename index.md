@@ -114,16 +114,17 @@ deliverables and presentation of results.
 
 # Education
 
-**PhD Candidate in Computer and Control Engineering** at [Polytechnic University
-of Turin](http://www.phd-dauin.polito.it/), Turin IT [nov 2016 - ongoing]
+**PhD in Computer and Control Engineering** at [Polytechnic University
+of Turin](http://www.phd-dauin.polito.it/), Turin IT [nov 2016 - jul 2020]
 
-Working on a research topic on "Trusted and secure networks" within the
-[TORSEC](https://security.polito.it) Computer and Network Security Group of
-Politecnico di Torino. My main focus is on researching and prototyping
+Worked on a research topic on "Security and trust in a Network Functions
+Virtualisation Infrastructure" within the [TORSEC](https://security.polito.it)
+Computer and Network Security Group of Politecnico di Torino.
+My main focus was on researching and prototyping
 architectures to enable security mechanisms on a softwarised network
-infrastructure, i.e. based on cloud and NFV principles. In this regard, my work
-focuses on application of Trusted Computing mechanisms and technologies (e.g.
-the Trusted Platform Module) to this multi-domain environment.
+infrastructure, i.e. based on cloud and NFV principles. In this regard, my
+work focused on application of Trusted Computing mechanisms and technologies
+(e.g. the Trusted Platform Module) to this multi-domain environment.
 
 **M.Sc in Computer Engineering - Emphasis on Networking** *magna cum laude* at
 [Polytechnic University of Turin](https://www.polito.it), Turin IT [oct 2013 -
