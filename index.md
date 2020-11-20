@@ -8,24 +8,31 @@ title: Marco De Benedictis Homepage
 
 # Professional interests
 
-My main interests are in the field of computer and network security, with
-particular attention to hardware-based trust, cloud infrastructures, network
-softwarisation and electronic identity. I'm particularly interested in novel
-forms of virtualisation, such as containers, as enabling factors for a faster
-and more scalable cloud environment. I am a passionate developer, and I truly
-enjoy learning the best approaches and latest technologies to tackle software
-engineering problems. I have had experiences on software engineering in heterogenous fields, from scientific research to aerospace & defense.
+My main interests are in the field of computer and network security, with particular attention to hardware-based trust, cloud infrastructures, network softwarisation and electronic identity.
+I’m particularly interested in novel forms of virtualisation, such as containers, as enabling factors for a faster and more scalable cloud environment.
+I am a passionate software developer, and I truly enjoy learning the best approaches and latest technologies to tackle software engineering problems.
+
+I have achieved with proficiency the Master's Degree in Computer Engineering at Polytechnic University of Turin, developing specific skills in networking, software development and computer security.
+
+Later, I have achieved a PhD in Computer and Control Engineering at Polytechnic University of Turin. My research work focuses on exploring the functionalities offered by trusted computing techniques (as defined by the Trusted Computing Group), in order to develop trusted architectures based on network virtualisation in cloud computing scenarios.
+
+I have started my professional career as research assistant at Polytechnic University of Turin, where I've been involved in different EU projects in the field of security of information systems (e.g. cross-border authentication). I have acquired experience as contract professor in several technical courses to enterprises in the fields of system security and distributed architectures.
+Later, I have briefly experienced the aerospace & defence field as part of the Aircraft Division of Leonardo in Italy, mainly focusing on avionic subsystems within the fighter simulators produced by the company.
+
+Since February 2020, I am a CyberSecurity Engineer in 7Layers.
 
 # Work experiences
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - ongoing]
 
-Research & development of cybersecurity solutions that leverage proprietary technologies (FireEye, Palo Alto Networks, Proofpoint, Forcepoint etc.) for the detection of security incidents and their remediation in heterogeneous target infrastructures, including clouds.
-Deployment and management of Managed Detection and Response solutions in clients' ICT infrastructures.
+Research & Development of cybersecurity solutions that both leverage proprietary technologies (FireEye, Palo Alto Networks, Proofpoint, Forcepoint etc.) and custom-built tools for the detection of security incidents and their remediation in heterogeneous target infrastructures.
+Focus on cloud security, advanced endpoint protection and log aggregation. Knowledge of security awareness solutions' benefits and capabilities.
+Customer-facing role as delivery engineer for the Managed Detection and Response (MDR) and SOC solutions of the company.
 
 **Avionic Systems Engineer** at [Leonardo Aircraft Division](https://www.leonardocompany.com/en/air/aircraft?WT.ac=Aircraft), Turin IT [dec 2019 - jan 2020]
 
-Contributed on the development and integration of avionic subsystems within the fighter simulators of Leonardo [Ground Based Training Systems](https://www.leonardocompany.com/en/products/gbts).
+Contributed on the development and integration of avionic subsystems
+within the fighter simulators of Leonardo [Ground Based Training Systems](https://www.leonardocompany.com/en/products/gbts).
 
 **Security Researcher** at [Polytechnic University of
 Turin](https://www.polito.it/), Turin IT [feb 2016 - nov 2019]
