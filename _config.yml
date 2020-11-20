@@ -26,7 +26,7 @@ github_username:  mrcdb
 markdown: kramdown
 # Disable this line when pushing to Github Pages
 # theme: plainwhite
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -53,3 +53,4 @@ plainwhite:
   show_excerpts: true
   analytics_id: UA-142193392-1
   portfolio_image: "assets/portfolio.png"
+  html_lang: "en"
