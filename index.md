@@ -25,14 +25,16 @@ Since February 2020, I am a CyberSecurity Engineer in 7Layers.
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - ongoing]
 
-Research & Development of cybersecurity solutions that both leverage proprietary technologies (FireEye, Palo Alto Networks, Proofpoint, Forcepoint etc.) and custom-built tools for the detection of security incidents and their remediation in heterogeneous target infrastructures.
-Focus on cloud security, advanced endpoint protection and log aggregation. Knowledge of security awareness solutions' benefits and capabilities.
-Customer-facing role as delivery engineer for the Managed Detection and Response (MDR) and SOC solutions of the company.
+Research & Development of cyber-security solutions that both leverage proprietary technologies and custom-built tools for the detection of security incidents and their remediation in heterogeneous target infrastructures.
+Focus on cloud infrastructures and cloud-native technologies, highly interested in Kubernetes and container security.
+Technical proficiency on advanced endpoint detection & response.
+I work with log management & aggregation and security automation tools.
+Field experience on technical formation, security awareness solutions and processes.
+Customer-facing role as delivery engineer for some of the cyber-security solutions of the company.
 
 **Avionic Systems Engineer** at [Leonardo Aircraft Division](https://www.leonardocompany.com/en/air/aircraft?WT.ac=Aircraft), Turin IT [dec 2019 - jan 2020]
 
-Contributed on the development and integration of avionic subsystems
-within the fighter simulators of Leonardo [Ground Based Training Systems](https://www.leonardocompany.com/en/products/gbts).
+Contributed on the development and integration of avionic subsystems within the fighter simulators of Leonardo [Ground Based Training Systems](https://www.leonardocompany.com/en/products/gbts).
 
 **Security Researcher** at [Polytechnic University of
 Turin](https://www.polito.it/), Turin IT [feb 2016 - nov 2019]

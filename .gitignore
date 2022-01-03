@@ -6,3 +6,6 @@ _site/
 
 # VSCode
 .vscode
+
+# MACOS
+.DS_Store
