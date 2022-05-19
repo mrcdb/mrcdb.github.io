@@ -16,14 +16,18 @@ I have achieved with proficiency the Master's Degree in Computer Engineering at 
 
 Later, I have achieved a PhD in Computer and Control Engineering at Polytechnic University of Turin. My research work focuses on exploring the functionalities offered by trusted computing techniques (as defined by the Trusted Computing Group), in order to develop trusted architectures based on network virtualisation in cloud computing scenarios.
 
-I have started my professional career as research assistant at Polytechnic University of Turin, where I've been involved in different EU projects in the field of security of information systems (e.g. cross-border authentication). I have acquired experience as contract professor in several technical courses to enterprises in the fields of system security and distributed architectures.
-Later, I have briefly experienced the aerospace & defence field as part of the Aircraft Division of Leonardo in Italy, mainly focusing on avionic subsystems within the fighter simulators produced by the company.
+I have started my professional career as research assistant at Polytechnic University of Turin, where I've  been involved in different EU projects in the field of security of information systems (e.g. cross-border authentication). I have acquired experience as contract professor in several technical courses to enterprises in the fields of system security and distributed architectures.
+Later,  I have briefly experienced the aerospace & defence field as part of the Aircraft Division of Leonardo in Italy, mainly focusing on avionic subsystems within the fighter simulators produced by the company.
 
-Since February 2020, I am a CyberSecurity Engineer in 7Layers.
+I have worked from February 2020 to May 2022 in 7Layers, a cybersecurity company focused on managed services (Managed Detection and Response, MDR) and in protecting heterogeneous customers' infrastructures. Within 7Layers, I have discovered my interest in cloud services and cloud security, aiming to improve my knowledge on Kubernetes and Cloud Native tooling.
+
+Since May 2022, I am a Cloud Native Security Engineer in ControlPlane, a UK-based consultancy focused on cloud native security and engineering.
 
 # Work experiences
 
-**Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - ongoing]
+**Cloud Native Security Engineer** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
+
+**Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - may 2022]
 
 Research & Development of cyber-security solutions that both leverage proprietary technologies and custom-built tools for the detection of security incidents and their remediation in heterogeneous target infrastructures.
 Focus on cloud infrastructures and cloud-native technologies, highly interested in Kubernetes and container security.
