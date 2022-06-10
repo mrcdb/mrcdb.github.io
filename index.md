@@ -21,11 +21,13 @@ Later,  I have briefly experienced the aerospace & defence field as part of the 
 
 I have worked from February 2020 to May 2022 in 7Layers, a cybersecurity company focused on managed services (Managed Detection and Response, MDR) and in protecting heterogeneous customers' infrastructures. Within 7Layers, I have discovered my interest in cloud services and cloud security, aiming to improve my knowledge on Kubernetes and Cloud Native tooling.
 
-Since May 2022, I am a Cloud Native Security Engineer in ControlPlane, a UK-based consultancy focused on cloud native security and engineering.
+Since May 2022, I am a Cloud Native Security Engineer in ControlPlane, focusing on cloud native security engineering.
 
 # Work experiences
 
 **Cloud Native Security Engineer** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
+
+Threat modelling cloud native infrastructures, securing Kubernetes infrastructures, build security in by default.
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - may 2022]
 
@@ -165,13 +167,12 @@ initial prototype of the SHIELD project platform.
 # Hobbies
 
 Authored a [DeviantArt](https://www.deviantart.com/mxdb) channel featuring
-original digital paintings with 9.5K page views. Music enthusiast and guitar
+original digital paintings with 9.5K+ page views. Music enthusiast and guitar
 player for many years.
 
 # Contacts
 
-Interested in hiring me? Here is my [*curriculum
-vitae*](assets/cv_onepage_eng.pdf).
+Interested in hiring me? Here is my - not too long - [*curriculum vitae*](assets/cv_onepage_eng.pdf).
 
-You can always drop me an email at **marcoxdebenedictis <code>at</code> gmail
-<code>dot</code> com**, I will reply shortly after. Thanks.
+You can also drop me an email at **marcoxdebenedictis <code>at</code> gmail
+<code>dot</code> com**, I will try to reply in due time. Thanks.
