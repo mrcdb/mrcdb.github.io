@@ -27,7 +27,9 @@ Since May 2022, I am a Cloud Native Security Engineer in ControlPlane, focusing 
 
 **Cloud Native Security Engineer** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
 
-Threat modelling cloud native infrastructures, securing Kubernetes infrastructures, build security in by default.
+Threat modelling cloud-native deployments for clients, to assess risk, high-impact threats and applicable security controls to help de-risk them.
+Focus on Kubernetes, containers, and in securing cloud services, infrastructures, and pipelines.
+Contributions to the cloud-native community on security projects.
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - may 2022]
 
