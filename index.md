@@ -8,28 +8,21 @@ title: Marco De Benedictis Homepage
 
 # Professional interests
 
-My main interests are in the field of computer and network security, with particular attention to hardware-based trust, cloud infrastructures, network softwarisation and electronic identity.
-I’m particularly interested in novel forms of virtualisation, such as containers, as enabling factors for a faster and more scalable cloud environment.
-I am a passionate software developer, and I truly enjoy learning the best approaches and latest technologies to tackle software engineering problems.
-
-I have achieved with proficiency the Master's Degree in Computer Engineering at Polytechnic University of Turin, developing specific skills in networking, software development and computer security.
-
-Later, I have achieved a PhD in Computer and Control Engineering at Polytechnic University of Turin. My research work focuses on exploring the functionalities offered by trusted computing techniques (as defined by the Trusted Computing Group), in order to develop trusted architectures based on network virtualisation in cloud computing scenarios.
-
-I have started my professional career as research assistant at Polytechnic University of Turin, where I've  been involved in different EU projects in the field of security of information systems (e.g. cross-border authentication). I have acquired experience as contract professor in several technical courses to enterprises in the fields of system security and distributed architectures.
-Later,  I have briefly experienced the aerospace & defence field as part of the Aircraft Division of Leonardo in Italy, mainly focusing on avionic subsystems within the fighter simulators produced by the company.
-
-I have worked from February 2020 to May 2022 in 7Layers, a cybersecurity company focused on managed services (Managed Detection and Response, MDR) and in protecting heterogeneous customers' infrastructures. Within 7Layers, I have discovered my interest in cloud services and cloud security, aiming to improve my knowledge on Kubernetes and Cloud Native tooling.
-
-Since May 2022, I am a Cloud Native Security Engineer in ControlPlane, focusing on cloud native security engineering.
+Senior security engineer with several years of experience consulting on high-end cybersecurity projects within the private and public sectors. I received a PhD in Computer and Control Engineering at Politecnico di Torino, researching novel approaches to enforce security and trust requirements in containerised systems. I am now employed at ControlPlane, where I focus on Kubernetes and, more in general, container security for a number of customers in assessing and improving the security posture of enterprise cloud-native infrastructures and applications.
 
 # Work experiences
 
-**Cloud Native Security Engineer** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
+**Senior Consultant (formerly Cloud Native Security Engineer)** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
 
-Threat modelling cloud-native deployments for clients, to assess risk, high-impact threats and applicable security controls to help de-risk them.
-Focus on Kubernetes, containers, and in securing cloud services, infrastructures, and pipelines.
-Contributions to the cloud-native community on security projects.
+Technical focus on Kubernetes and container security.
+Threat modelling cloud-native deployments for clients, to assess risk, and define high-impact threats and applicable security controls.
+Helping clients with DevOps maturity assessments and establishment of DevSecOps capabilities.
+Contributing to the cloud-native community (CNCF) on security-specific initiatives around the projects of the cloud-native ecosystem.
+Delivering on-site and remote training for clients regarding containers and Kubernetes security.
+
+**Instructor** at [O'Reilly](https://www.oreilly.com), Remote [june 2023 - ongoing]
+
+Instructor for the "Kubernetes Security: Attacking and Defending Kubernetes" course by ControlPlane for O'Reilly Online.
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - may 2022]
 
@@ -154,6 +147,13 @@ digital signatures applied to electronic documents.
 **B.Sc. in Computer Engineering** at [Polytechnic University of
 Turin](https://www.polito.it), Turin IT [oct 2010 - sep 2013]
 
+# Certifications
+
+* Cloud Native Computing Foundation - Certified Kubernetes Administrator
+* Cloud Native Computing Foundation - Certified Kubernetes Security Specialist
+* Google Cloud - Professional Cloud Security Engineer
+* AWS - Certified Security - Specialty
+
 # Publications
 
 The full list of publications I authored is available in my [Google
@@ -174,7 +174,5 @@ player for many years.
 
 # Contacts
 
-Interested in hiring me? Here is my - not too long - [*curriculum vitae*](assets/cv_onepage_eng.pdf).
-
-You can also drop me an email at **marcoxdebenedictis <code>at</code> gmail
+You can drop me an email at **marcoxdebenedictis <code>at</code> gmail
 <code>dot</code> com**, I will try to reply in due time. Thanks.

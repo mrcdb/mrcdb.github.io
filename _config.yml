@@ -16,7 +16,7 @@
 title: Marco De Benedictis Homepage
 email: marcoxdebenedictis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal web page of Marco De Benedictis, Security Software Engineer based in Italy.
+  Personal web page of Marco De Benedictis, Security Engineer based in Italy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: myfearisnaked
@@ -43,7 +43,7 @@ remote_theme: samarsault/plainwhite-jekyll
 # plainwhite theme config
 plainwhite:
   name: Marco De Benedictis
-  tagline: Security Engineer, PhD
+  tagline: PhD, Security Engineer
   date_format: "%b %-d, %Y"
   social_links:
     github: mrcdb
