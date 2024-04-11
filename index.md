@@ -6,7 +6,9 @@ layout: page
 title: Marco De Benedictis Homepage
 ---
 
-PhD and senior security engineer with several years of experience researching and consulting on
+# $ whoami
+
+PhD and senior security engineer based in Italy, with several years of experience researching and consulting on
 high-end cybersecurity projects within the private and public sectors, now focusing on Kubernetes,
 cloud native security and open source software.
 
