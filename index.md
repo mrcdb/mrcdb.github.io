@@ -12,7 +12,7 @@ PhD and senior security engineer based in Italy, with several years of experienc
 high-end cybersecurity projects within the private and public sectors, now focusing on Kubernetes,
 cloud native security and open source software.
 
-[This](assets/cv_onepage_eng.png) is my CV.
+[This](assets/cv_onepage_eng.pdf) is my CV.
 
 # Work experiences
 
