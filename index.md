@@ -6,32 +6,27 @@ layout: page
 title: Marco De Benedictis Homepage
 ---
 
-# Professional interests
-
-Senior security engineer with several years of experience consulting on high-end cybersecurity projects within the private and public sectors. I received a PhD in Computer and Control Engineering at Politecnico di Torino, researching novel approaches to enforce security and trust requirements in containerised systems. I am now employed at ControlPlane, where I focus on Kubernetes and, more in general, container security for a number of customers in assessing and improving the security posture of enterprise cloud-native infrastructures and applications.
+PhD and senior security engineer with several years of experience researching and consulting on
+high-end cybersecurity projects within the private and public sectors, now focusing on Kubernetes,
+cloud native security and open source software.
 
 # Work experiences
 
-**Senior Consultant (formerly Cloud Native Security Engineer)** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
+**Cloud Native Senior Consultant (formerly Cloud Native Security Engineer)** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
 
-Technical focus on Kubernetes and container security.
-Threat modelling cloud-native deployments for clients, to assess risk, and define high-impact threats and applicable security controls.
-Helping clients with DevOps maturity assessments and establishment of DevSecOps capabilities.
-Contributing to the cloud-native community (CNCF) on security-specific initiatives around the projects of the cloud-native ecosystem.
-Delivering on-site and remote training for clients regarding containers and Kubernetes security.
-
-**Instructor** at [O'Reilly](https://www.oreilly.com), Remote [june 2023 - ongoing]
-
-Instructor for the "Kubernetes Security: Attacking and Defending Kubernetes" course by ControlPlane for O'Reilly Online.
+Threat modelling cloud-native deployments for clients, to assess risk, define high-impact threats and applicable security
+controls to help de-risk them. Focusing on Kubernetes and container security, and in securing cloud services, infrastructures,
+and pipelines. Helping companies build DevSecOps capabilities and migrate existing workflows and processes to more agile,
+cloud-native solutions. Training clients on containers and cloud-native security. Contributions to the CNCF on security
+projects and initiatives within the Security TAG. Speaker at KubeCon + CloudNativeCon Europe 2024 and two Kubernetes
+Community Days. Instructor for the "Kubernetes Security: Attacking and Defending Kubernetes" course for O'Reilly Online.
 
 **Security Engineer** at [7Layers](https://www.7layers.it), Turin IT [feb 2020 - may 2022]
 
-Research & Development of cyber-security solutions that both leverage proprietary technologies and custom-built tools for the detection of security incidents and their remediation in heterogeneous target infrastructures.
-Focus on cloud infrastructures and cloud-native technologies, highly interested in Kubernetes and container security.
-Technical proficiency on advanced endpoint detection & response.
-I work with log management & aggregation and security automation tools.
-Field experience on technical formation, security awareness solutions and processes.
-Customer-facing role as delivery engineer for some of the cyber-security solutions of the company.
+Research & Development of cyber-security solutions that both leverage proprietary technologies and custom-built tools for
+the detection of security incidents and their remediation in heterogeneous target infrastructures. Focus on cloud
+infrastructures and cloud-native technologies, interested in Kubernetes and container security. Technical proficiency on
+advanced endpoint detection & response, log management & aggregation, and security automation tools.
 
 **Avionic Systems Engineer** at [Leonardo Aircraft Division](https://www.leonardocompany.com/en/air/aircraft?WT.ac=Aircraft), Turin IT [dec 2019 - jan 2020]
 
@@ -107,7 +102,7 @@ Turin](https://www.polito.it/) in several academic courses:
 - Design of web services and computer networks [2018 - 2019]
 - Computer Science [2016 - 2018]
 
-# International projects
+# International Research Projects
 
 I have been involved in several research and innovation activities co-funded by
 the European Commission:
@@ -149,10 +144,12 @@ Turin](https://www.polito.it), Turin IT [oct 2010 - sep 2013]
 
 # Certifications
 
-* Cloud Native Computing Foundation - Certified Kubernetes Administrator
-* Cloud Native Computing Foundation - Certified Kubernetes Security Specialist
-* Google Cloud - Professional Cloud Security Engineer
 * AWS - Certified Security - Specialty
+* Google Cloud - Professional Cloud Security Engineer
+* Cloud Native Computing Foundation - Certified Kubernetes Security Specialist
+* Cloud Native Computing Foundation - Certified Kubernetes Administrator
+* Palo Alto Networks Systems Engineer - Prisma Cloud Associate
+* Okta Certified Professional
 
 # Publications
 
