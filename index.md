@@ -6,7 +6,7 @@ layout: page
 title: Marco De Benedictis Homepage
 ---
 
-# $ whoami
+# $ whoam
 
 PhD and senior security engineer based in Italy, with several years of experience researching and consulting on
 high-end cybersecurity projects within the private and public sectors, now focusing on Kubernetes,
@@ -16,7 +16,13 @@ cloud native security and open source software.
 
 # Work experiences
 
-**Cloud Native Senior Consultant (formerly Cloud Native Security Engineer)** at [ControlPlane](https://www.control-plane.io), London UK [may 2022 - ongoing]
+**Technical Account Manager** at [Wiz](https://www.wiz.io), Turin IT [december 2024 - ongoing]
+
+**Technical Lead - Security Technical Advisory Group** at [Cloud Native Computing Foundation](https://www.cncf.io), Turin IT (remote, freelance) [september 2024 - ongoing]
+
+Active contribution to the Security Technical Advisory Group (TAG Security) of the CNCF, providing support to projects in the landscape with regards to security reviews and other internal activities within the group.
+
+**Cloud Native Senior Consultant (formerly Cloud Native Security Engineer)** at [ControlPlane](https://www.control-plane.io), London UK (remote) [may 2022 - december 2024]
 
 Threat modelling cloud-native deployments for clients, to assess risk, define high-impact threats and applicable security
 controls to help de-risk them. Focusing on Kubernetes and container security, and in securing cloud services, infrastructures,
